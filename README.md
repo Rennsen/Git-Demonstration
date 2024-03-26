@@ -1,8 +1,8 @@
-**Git-Demonstration**
+# Git-Demonstration
 
 Welcome to Git-Demonstration! This repository serves as a practical example used for a video demonstration on version control and collaboration, specifically tailored for a web development project.
 
-### Description
+## Description
 
 Git-Demonstration provides a hands-on demonstration of version control and collaboration concepts using Git. In this project, users will be guided through the process of contributing to a simulated database environment. The main features include:
 
@@ -10,7 +10,7 @@ Git-Demonstration provides a hands-on demonstration of version control and colla
 - **ID Generation**: The application generates a unique ID consisting of four numbers for each user.
 - **Database Simulation**: Users manually add their generated ID to a database code, simulating the database environment and structure.
 
-### How to Use
+## How to Use
 
 1. **Clone the Repository**: Begin by cloning this repository to your local machine using the following command:
 
@@ -28,19 +28,19 @@ Git-Demonstration provides a hands-on demonstration of version control and colla
 
 6. **Collaboration**: The process is used to build a small database of contributors and participants.
 
-### Contributions
+## Contributions
 
-Contributions to this project are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request. Please follow our contribution guidelines outlined in the project's documentation
+Contributions to this project are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request. Please follow our contribution guidelines outlined in the project's documentation.
 
-### License
+## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
 
-### Disclaimer
+## Disclaimer
 
-Please note that this project is intended for educational purposes only. While efforts have been made to ensure security, it is essential to exercise caution when dealing with sensitive information and encryption methods
+Please note that this project is intended for educational purposes only. While efforts have been made to ensure security, it is essential to exercise caution when dealing with sensitive information and encryption methods.
 
-### Contact
+## Contact
 
 For any inquiries or further assistance, you can contact the project owner:
 
@@ -48,7 +48,7 @@ For any inquiries or further assistance, you can contact the project owner:
 - **Email**: nr_derradji@esi.dz
 - **GitHub**: [Rennsen](https://github.com/Rennsen)
 
-### Credits
+## Credits
 
 I would like to extend my thanks to the following individuals for their contributions to this project:
 
