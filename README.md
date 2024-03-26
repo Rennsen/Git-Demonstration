@@ -34,7 +34,7 @@ Contributions to this project are welcome! If you have ideas for improvements or
 
 ### License
 
-This project is licensed under the (MIT License)[LICENSE]. Feel free to use, modify, and distribute it as per the terms of the license.
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
 
 ### Disclaimer
 
